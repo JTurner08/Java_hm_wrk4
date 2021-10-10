@@ -7,7 +7,9 @@ public class Computer {
 //		- All 3 variables should be private instance variables and must use getters to retrieve the data and setters to set the variables.
 
 	private String nameString;
+	
 	private int year;
+	
 	private float cost;
 
 	public String getNameString() {
